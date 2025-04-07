@@ -20,4 +20,11 @@
 🔹 Implementing core recommendation algorithms  
 🔹 Building an API for seamless integration  
 
-🚀 **Stay tuned as Rekmetric evolves into a powerful AI-driven recommendation system!**
+## Dataset Notice
+
+This repository contains a preprocessed version of the RetailRocket eCommerce Dataset.
+
+- Source: [RetailRocket eCommerce Dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
+- License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- This version is shared under the same license with modifications for educational/research purposes only.
+
